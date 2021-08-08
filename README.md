@@ -1,0 +1,2 @@
+# C20-My-Own-Infinite-Runner-Game
+Covid 19  A boy running away from Covid 19 to keep himself protected. He comes in contact with vaccines, with give him an extra life and masks that protects him for 10 seconds. Each person starts off with 3 lives, however they can increase that by getting vaccines. Each time they touch Covid, a life gets deducted and once all lives are over, it is simply game over.
