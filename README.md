@@ -1,3 +1,2 @@
 # C20-My-Own-Infinite-Runner-Game
-Covid 19 :
-A boy running away from Covid 19 to keep himself protected. He comes in contact with vaccines and masks, which give him an extra life. Each person starts off with 3 lives, however they can increase that by getting vaccines and masks. Each time they come in contact Covid, a life gets deducted and once all lives are over, it is simply game over.
+Covid 19: A boy running away from Covid 19 to keep himself protected. He comes in contact with vaccines and masks, which boosts his score giving him 200 extra points for every mask he takes and 500 points for every vaccine. The score constantly increases till he comes in contact with covid, which deducts 2000 points away. If the person's score drops below 0, it's simply game over. Good luck and have fun!!!
